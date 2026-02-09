@@ -74,10 +74,25 @@ Highlights reporting certainty, classification confidence, and limitations inher
 ## Dashboard Preview
 
 ### Global Trends & Geography
-![](06_Dashboards/Images/D1_Global_Trends.png)
+![](06_Dashboards/D1.png)
 
-### Severity, Impact & Outcomes
-![](06_Dashboards/Images/D4_Severity_Impact.png)
+### Tactical & Target Dynamics
+![](06_Dashboards/D2.png)
+
+---
+
+📄**Full Dashboard (All Pages – PDF):**  
+🔹[View Complete Dashboard PDF](06_Dashboards/Dashboards.pdf)
+
+This PDF contains **all dashboard pages across Market & Sales, Delivery & Operations, Retail Store, and Customer analysis**.
+
+---
+### 🌐 Tableau Public – Interactive Dashboards
+
+The complete interactive dashboards for this project are published on Tableau Public:
+
+ **View on Tableau Public:**  
+🔗 [gauravshinde17](https://public.tableau.com/app/profile/gauravshinde17/viz/GlobalTerrorismTrendsDynamics19702020/D5-AttributionCertaintyAnalyticalLimitations)
 
 ---
 
