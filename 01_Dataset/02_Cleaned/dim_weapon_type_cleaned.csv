@@ -1,0 +1,13 @@
+weapontype_id,weapontype_txt
+13.0,Unknown
+6.0,Explosives
+8.0,Incendiary
+5.0,Firearms
+2.0,Chemical
+9.0,Melee
+11.0,Sabotage Equipment
+10.0,"Vehicle (Not To Include Vehicle-Borne Explosives, I.E., Car Or Truck Bombs)"
+7.0,Fake Weapons
+3.0,Radiological
+12.0,Other
+1.0,Biological

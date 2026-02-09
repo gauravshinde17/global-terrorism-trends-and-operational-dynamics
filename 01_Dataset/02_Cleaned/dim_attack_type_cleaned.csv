@@ -1,0 +1,10 @@
+attacktype_id,attacktype_txt
+1.0,Assassination
+6.0,Hostage Taking (Kidnapping)
+3.0,Bombing/Explosion
+7.0,Facility/Infrastructure Attack
+2.0,Armed Assault
+4.0,Hijacking
+9.0,Unknown
+8.0,Unarmed Assault
+5.0,Hostage Taking (Barricade Incident)
